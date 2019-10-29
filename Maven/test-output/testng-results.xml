@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="140" started-at="2019-10-14T20:40:37Z" finished-at="2019-10-14T20:40:37Z">
+  <suite name="Default suite" duration-ms="235" started-at="2019-10-29T08:56:10Z" finished-at="2019-10-29T08:56:10Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="140" started-at="2019-10-14T20:40:37Z" finished-at="2019-10-14T20:40:37Z">
+    <test name="Default test" duration-ms="235" started-at="2019-10-29T08:56:10Z" finished-at="2019-10-29T08:56:10Z">
       <class name="P1.SampleTest">
-        <test-method status="PASS" signature="m1()[pri:0, instance:P1.SampleTest@4520ebad]" name="m1" duration-ms="60" started-at="2019-10-15T02:10:37Z" finished-at="2019-10-15T02:10:37Z">
+        <test-method status="PASS" signature="m1()[pri:0, instance:P1.SampleTest@4520ebad]" name="m1" duration-ms="102" started-at="2019-10-29T14:26:10Z" finished-at="2019-10-29T14:26:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
-        <test-method status="PASS" signature="m2()[pri:0, instance:P1.SampleTest@4520ebad]" name="m2" duration-ms="10" started-at="2019-10-15T02:10:37Z" finished-at="2019-10-15T02:10:37Z">
+        <test-method status="PASS" signature="m2()[pri:0, instance:P1.SampleTest@4520ebad]" name="m2" duration-ms="5" started-at="2019-10-29T14:26:10Z" finished-at="2019-10-29T14:26:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m2 -->
-        <test-method status="PASS" signature="m3()[pri:0, instance:P1.SampleTest@4520ebad]" name="m3" duration-ms="10" started-at="2019-10-15T02:10:37Z" finished-at="2019-10-15T02:10:37Z">
+        <test-method status="PASS" signature="m3()[pri:0, instance:P1.SampleTest@4520ebad]" name="m3" duration-ms="9" started-at="2019-10-29T14:26:10Z" finished-at="2019-10-29T14:26:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m3 -->
-        <test-method status="PASS" signature="m4()[pri:0, instance:P1.SampleTest@4520ebad]" name="m4" duration-ms="10" started-at="2019-10-15T02:10:37Z" finished-at="2019-10-15T02:10:37Z">
+        <test-method status="PASS" signature="m4()[pri:0, instance:P1.SampleTest@4520ebad]" name="m4" duration-ms="4" started-at="2019-10-29T14:26:10Z" finished-at="2019-10-29T14:26:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m4 -->
       </class> <!-- P1.SampleTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
